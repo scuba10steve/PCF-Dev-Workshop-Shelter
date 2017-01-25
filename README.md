@@ -15,7 +15,6 @@ This workshop will focus on the Pivotal Cloud Foundry Developer persona. We will
 - Understanding of using PCF for logging and metrics
 
 ## Agenda
-# note here, let's link in the slides instead of later (in course materials)
 Time | Session
 ---- | -------
 8:00 AM - 8:15 AM |   [_Session 1: Introduction by Shelter Insurance_](presentations/1-Workshop-Kickoff.pptx)

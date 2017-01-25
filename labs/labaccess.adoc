@@ -26,4 +26,4 @@ $ cf login
 . Follow the prompts and login with the account from above.
 
 == The Labs
-link:../README.adoc[You are now ready to start Lab 1]
+link:../README.md[You are now ready to start Lab 1]
