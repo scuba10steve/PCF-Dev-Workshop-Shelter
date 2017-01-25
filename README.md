@@ -28,7 +28,7 @@ This is a _loose_ schedule for the day. We will adjust as necessary based on our
 
 The lectures for this workshop are generally light and are only intended to set the stage for the hands-on labs. The overwhelming majority of our time will be spent engaging with the technology directly!
 
-## Developer Workshop
+## Labs
 * Pre-work
   * [labs/labaccess.adoc](Get Environment Access)
 * Lab 1 - From Zero to Pushing Your First Application
