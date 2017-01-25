@@ -30,12 +30,12 @@ The lectures for this workshop are generally light and are only intended to set 
 
 ## Developer Workshop
 ### Pre-work
-#### link:labs/labaccess.adoc[Get Environment Access]
+#### [labs/labaccess.adoc](Get Environment Access)
 ### Lab 1 - From Zero to Pushing Your First Application
 #### [**Java** Application](labs/lab1/lab.adoc)
-### (labs/lab2/lab.adoc)[Lab 2 - Binding to Cloud Foundry Services]
-### (labs/lab3/lab.adoc)[Lab 3 - Operating Your Application]
-### (labs/lab4/lab.adoc)[Lab 4 - Monitoring Your Application]
+### [Lab 2 - Binding to Cloud Foundry Services](labs/lab2/lab.adoc)
+### [Lab 3 - Operating Your Application](labs/lab3/lab.adoc)
+### [Lab 4 - Monitoring Your Application](labs/lab4/lab.adoc)
 
 ## Getting Started
 
