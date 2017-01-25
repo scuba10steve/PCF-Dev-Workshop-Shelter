@@ -18,11 +18,11 @@ This workshop will focus on the Pivotal Cloud Foundry Developer persona. We will
 # note here, let's link in the slides instead of later (in course materials)
 Time | Session
 ---- | -------
-8:00 AM - 8:15 AM | _Introduction by Shelter Insurance_
-8:15 AM - 9:00 AM | _Session 1: Some Title_
-9:00 AM - 10:00 AM | _Session 2: Some Title_
-10:00 AM - 11:00 AM | _Session 3: Some Title_
-11:00 AM - 12:00 AM | _Session 4: Some Title_
+8:00 AM - 8:15 AM | [presentations/1-Workshop Kickoff.pptx](_Introduction by Shelter Insurance_)
+8:15 AM - 9:00 AM | [presentations/2-Cloud Native Introduction.pptx](_Session 1: Some Title_)
+9:00 AM - 10:00 AM | [presentations/3-Pivotal Cloud Foundry.pptx](_Session 2: Some Title_)
+10:00 AM - 11:00 AM | [presentations/4-Services.pptx](_Session 3: Some Title_)
+11:00 AM - 12:00 AM | _Lab_
 
 This is a _loose_ schedule for the day. We will adjust as necessary based on our pace through the material.
 
@@ -30,7 +30,7 @@ The lectures for this workshop are generally light and are only intended to set 
 
 ## Labs
 * Pre-work
-  * [labs/labaccess.adoc](Get Environment Access)
+  * [Get Environment Access](labs/labaccess.adoc)
 * Lab 1 - From Zero to Pushing Your First Application
   * [**Java** Application](labs/lab1/lab.adoc)
 * [Lab 2 - Binding to Cloud Foundry Services](labs/lab2/lab.adoc)
