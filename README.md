@@ -28,6 +28,15 @@ This is a _loose_ schedule for the day. We will adjust as necessary based on our
 
 The lectures for this workshop are generally light and are only intended to set the stage for the hands-on labs. The overwhelming majority of our time will be spent engaging with the technology directly!
 
+## Developer Workshop
+### Pre-work
+#### link:labs/labaccess.adoc[Get Environment Access]
+### Lab 1 - From Zero to Pushing Your First Application
+#### link:labs/lab1/lab.adoc[**Java** Application]
+### link:labs/lab2/lab.adoc[Lab 2 - Binding to Cloud Foundry Services]
+### link:labs/lab3/lab.adoc[Lab 3 - Operating Your Application]
+### link:labs/lab4/lab.adoc[Lab 4 - Monitoring Your Application]
+
 ## Getting Started
 
 ### Pre-requisites
