@@ -19,7 +19,7 @@ This workshop will focus on the Pivotal Cloud Foundry Developer persona. We will
 * [_Session 2: Cloud Native, an Introduction_](presentations/2-Cloud-Native-Introduction.pptx)
 * [_Session 3: Pivotal Cloud Foundry_](presentations/3-Pivotal-Cloud-Foundry.pptx)
 * [_Session 4: PCF Services_](presentations/4-Services.pptx)
-_Labs_
+* _Labs_
 
 This is a _loose_ schedule for the day. We will adjust as necessary based on our pace through the material.
 
