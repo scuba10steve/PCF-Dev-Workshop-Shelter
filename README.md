@@ -15,7 +15,6 @@ This workshop will focus on the Pivotal Cloud Foundry Developer persona. We will
 - Understanding of using PCF for logging and metrics
 
 ## Agenda
-Session
 * [_Session 1: Introduction by Shelter Insurance_](presentations/1-Workshop-Kickoff.pptx)
 * [_Session 2: Cloud Native, an Introduction_](presentations/2-Cloud-Native-Introduction.pptx)
 * [_Session 3: Pivotal Cloud Foundry_](presentations/3-Pivotal-Cloud-Foundry.pptx)
