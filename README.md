@@ -15,13 +15,12 @@ This workshop will focus on the Pivotal Cloud Foundry Developer persona. We will
 - Understanding of using PCF for logging and metrics
 
 ## Agenda
-Time | Session
----- | -------
-8:00 AM - 8:15 AM |   [_Session 1: Introduction by Shelter Insurance_](presentations/1-Workshop-Kickoff.pptx)
-8:15 AM - 9:00 AM |   [_Session 2: Cloud Native, an Introduction_](presentations/2-Cloud-Native-Introduction.pptx)
-9:00 AM - 10:00 AM |  [_Session 3: Pivotal Cloud Foundry_](presentations/3-Pivotal-Cloud-Foundry.pptx)
-10:00 AM - 11:00 AM | [_Session 4: PCF Services_](presentations/4-Services.pptx)
-11:00 AM - 12:00 AM | _Labs_
+Session
+[_Session 1: Introduction by Shelter Insurance_](presentations/1-Workshop-Kickoff.pptx)
+[_Session 2: Cloud Native, an Introduction_](presentations/2-Cloud-Native-Introduction.pptx)
+[_Session 3: Pivotal Cloud Foundry_](presentations/3-Pivotal-Cloud-Foundry.pptx)
+[_Session 4: PCF Services_](presentations/4-Services.pptx)
+_Labs_
 
 This is a _loose_ schedule for the day. We will adjust as necessary based on our pace through the material.
 
