@@ -33,12 +33,11 @@ The first is available on any instance of Cloud Foundry: the CLI. Just type:
 $ cf marketplace
 ----
 
-and you'll get a list of services, their available plans, and descriptions. On Pivotal Cloudfoundry, the ``free'' tier of plans is normally the first one listed.
+and you'll get a list of services, their available plans, and descriptions. On Pivotal Cloudfoundry, the "free" tier of plans is normally the first one listed.
 
-The second way is specific to Pivotal Cloudfoundry's Apps Manager UI.
-If you haven't already, login to it by visiting Apps Mgr
+The second way is specific to Pivotal Cloudfoundry's Apps Manager UI. If you haven't already, login to it by visiting Apps Mgr
 
-Click on the ''Marketplace'' link:
+Click on the "Marketplace" link:
 
 image::lab1.png[]
 
@@ -58,11 +57,11 @@ image::lab3.png[]
 Let's take a look at the environment variables for our application. We can do this by viewing to the homepage of the application.
 Here we will see a printout of the environment information.  Take note of what is contained in the section _Bound Services_.  It's an empty JSON document!
 
-. Now let's _restage_ the application, which cycles our application back through the staging/buildpack process before redeploying the application.footnote:[In this case, we could accomplish the same goal by only _restarting_ the application via `cf restart spring-music`.
+. Now let's _restage_ the application, which cycles our application back through the staging/buildpack process before redeploying the application. In this case, we could accomplish the same goal by only _restarting_ the application via `cf restart cf-spring-mvc-boot`.
 A _restage_ is generally recommended because Cloud Foundry buildpacks also have access to injected environment variables and can install or configure things differently based on their values.]
 +
 ----
-$ cf restage workshop
+$ cf restage cf-spring-mvc-boot
 ----
 +
 Once the application is running again, revisit or refresh the browser tab where you have the _Wokshop_ application loaded.  You'll notice now we have information that could be used to connect to a DB.

@@ -54,7 +54,7 @@ Here are two interesting subsets of one output from that command:
 As you can see, Cloud Foundry's log aggregation components capture both application logs and CF component logs relevant to your application.
 These events are properly interleaved based on time, giving you an accurate picture of events as they transpired across the system.
 
-. To get a running ``tail'' of the application logs rather than a dump, simply type:
+. To get a running "tail" of the application logs rather than a dump, simply type:
 +
 ----
 $ cf logs workshop
@@ -66,7 +66,7 @@ You can try various things like refreshing the browser and triggering stop/start
 
 Cloud Foundry's http://docs.cloudfoundry.org/concepts/architecture/#hm9k[Heatlh Manager] actively monitors the health of our application processes and will restart them should they crash.
 
-. If you don't have one already running, start a log tail for `workshop`.  Alternatively, you could view the logs using the papertrail app.
+. If you don't have one already running, start a log tail for `workshop`.
 +
 ----
 $ cf logs workshop

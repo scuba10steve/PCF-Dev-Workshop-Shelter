@@ -7,7 +7,7 @@
 . Set the API target for the CLI: (set appropriate end point for your environment)
 +
 ----
-$ cf api https://api.cfpoc2.internal.t-mobile.com --skip-ssl-validation
+$ cf api https://api.sys.cfapp.org --skip-ssl-validation
 ----
 
 . Login to Pivotal Cloudfoundry:
@@ -36,7 +36,7 @@ You should see output similar to the following listing. Take a look at the listi
 +
 ====
 ----
-Using manifest file /Users/phopper/workspace/NBCU-PCF-Workshop-101/pcf-autoscale/manifest.yml <1>
+Using manifest file /Users/phopper/workspace/PCF-Dev-Workshop-Shelter/pcf-autoscale/manifest.yml <1>
 
 Updating app scale-demo in org TELCO / space hopper as phopper@pivotal.io...
 OK <2>

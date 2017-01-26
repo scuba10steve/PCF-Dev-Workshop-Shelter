@@ -7,6 +7,22 @@
 == Download
 . Download the code, binaries and slides: https://github.com/phopper-pivotal/PCF-Dev-Workshop-Shelter
 
+== Target
+. Set the API target for the CLI: (set appropriate end point for your environment)
++
+----
+$ cf api https://api.sys.cfapp.org --skip-ssl-validation
+----
+
+. Login to Pivotal Cloudfoundry:
++
+----
+$ cf login
+----
++
+Follow the prompts
+
+
 == Push It!
 
 . Change directory to the _labs/cf-spring-mvc-boot_ sample application:
