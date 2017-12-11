@@ -13,7 +13,7 @@
 
 +
 ----
-$ cf api https://apps.sys.cfapp.org
+$ cf api https://api.sys.cfapp.org
 ----
 
 . Login to Pivotal Cloudfoundry:
